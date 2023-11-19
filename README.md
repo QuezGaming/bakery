@@ -237,13 +237,7 @@ function resetCalculator() {
     <label for="Velmachoice">Salad - 150$</label>
     <input type="number" value="1" min="1">
   </div>
-  
-  <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Fruit Explosion - 200$</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
+ 
   <div>
     <input type="checkbox" id="Davechoice" value="150$">
     <label for="Davechoice">Turkey Sandwich - 150$</label>
@@ -267,26 +261,20 @@ function resetCalculator() {
     <label for="Davechoice">Ham Sandwich - 150$</label>
     <input type="number" value="1" min="1">
   </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="175$">
-    <label for="Davechoice">Chocolate Pancakes - 175$</label>
-    <input type="number" value="1" min="1">
-  </div>
   
     <h3>Beverage</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="200$">
-    <label for="Velmachoice">Lemonade - 200$</label>
+    <input type="checkbox" id="uwueats" value="175$">
+    <label for="Velmachoice">Lemonade - 175$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="225$">
-    <label for="Davechoice">Coke - 225$</label>
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Coke - 150$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -297,8 +285,8 @@ function resetCalculator() {
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="175$">
-    <label for="Davechoice">Latte - 175$</label>
+    <input type="checkbox" id="Davechoice" value="200$">
+    <label for="Davechoice">Latte - 200$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -381,41 +369,7 @@ function resetCalculator() {
     <label for="Davechoice">100 Latte's - 9000$</label>
     <input type="number" value="1" min="1">
   </div>
-  <h3>Specials</h3>
   
-  <div>
-    <input type="checkbox" id="Davechoice" value="2000$">
-    <label for="Davechoice">Sweet Tooth Special - 2000$</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="2700$">
-    <label for="Davechoice">Cozy Feeling Special - 2700$</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="1100$">
-    <label for="Davechoice">Night Cap Special - 1100$</label>
-    <input type="number" value="1" min="1">
-  </div>
-    <div>
-    <input type="checkbox" id="Davechoice" value="500$">
-    <label for="Davechoice">Poor Man Special - 500$</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">The Garrett Special - 5000$</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  
-    
-  
-
 <div style="margin-bottom: 10px;"></div>
   
   <h3> Discount Items</h3> 
